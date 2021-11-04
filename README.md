@@ -1,1 +1,1 @@
-# Hand-Writing-Recognization-using-Deep-Learning
+# Hand-Writing-digit-Recognization-using-Deep-Learning
